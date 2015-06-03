@@ -7,6 +7,10 @@ I love node.js and I guess that is exactly the future of web development!
 
 ## node.js Resources
 
+[JavaScript Style Guide](https://github.com/airbnb/javascript)  
+[JSCS (JavaScript Code Style)](http://jscs.info/)  
+[ESLint](http://eslint.org/)  
+
 ### Blogs
 
 [DailyJS](http://dailyjs.com/)
