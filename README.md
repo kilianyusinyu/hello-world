@@ -17,14 +17,13 @@ I love node.js and I guess that is exactly the future of web development!
 
 ### Frameworks
 
-[restify](https://github.com/mcavage/node-restify)
-[hapi.js](http://hapijs.com/)
-[Express](http://expressjs.com/)
+[restify](https://github.com/mcavage/node-restify)  
+[hapi.js](http://hapijs.com/)  
+[Express](http://expressjs.com/)  
 
 ### Useful modules
 
-[Babel](https://babeljs.io/)
-
-[Async.js](https://github.com/caolan/async)
-[lodash](https://lodash.com/)
-[fs-extra](https://github.com/jprichardson/node-fs-extra)
+[Babel](https://babeljs.io/)  
+[Async.js](https://github.com/caolan/async)  
+[lodash](https://lodash.com/)  
+[fs-extra](https://github.com/jprichardson/node-fs-extra)  
