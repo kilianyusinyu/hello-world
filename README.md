@@ -31,3 +31,6 @@ I love node.js and I guess that is exactly the future of web development!
 [Async.js](https://github.com/caolan/async)  
 [lodash](https://lodash.com/)  
 [fs-extra](https://github.com/jprichardson/node-fs-extra)  
+
+### HTML5 File API
+[File API](http://www.html5rocks.com/de/tutorials/file/dndfiles)
