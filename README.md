@@ -34,3 +34,8 @@ I love node.js and I guess that is exactly the future of web development!
 
 ### HTML5 File API
 [File API](http://www.html5rocks.com/de/tutorials/file/dndfiles)
+
+### Virtual Box + Windows Services
+[Virtual Box](https://www.modern.ie/de-de/virtualization-tools)
+[Windows Services Verwaltung]( https://github.com/coreybutler/node-windows)
+
